@@ -28,3 +28,6 @@ Library:
 ### How To Run
 Go to src directory,
 `python main.py`
+
+or Go to bin directory and run
+main.exe
